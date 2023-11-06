@@ -2,7 +2,7 @@
 - 👀 I’m interested in AIML
 - 🌱 I’m currently learning rdbms
 - 💞️ I’m looking to collaborate on dbms
-- 📫 How to reach me nkrnsit@gmail.com
+- 📫 How to reach me.. nkrnsit@gmail.com
 
 <!---
 narendrakumar79/narendrakumar79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
